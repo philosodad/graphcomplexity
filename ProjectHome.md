@@ -1,0 +1,1 @@
+Material related to theoretical questions about distributed computation of graph problems. A paper based on this work has been accepted to the APDCM Workshop, 2011, and is available for download <a href='http://johnpdaigle.com/student/PDFs/match-framework-acdcm.pdf'>here</a>.

@@ -1,0 +1,1 @@
+[Naive Algorithm](http://code.google.com/p/graphcomplexity/wiki/naive)
